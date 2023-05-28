@@ -1,4 +1,4 @@
-include("./ITensorQTT.jl")
+include("./../QTT/ITensorQTT.jl/src/ITensorQTT.jl")
 using .ITensorQTT
 using ITensors
 using ITensorUnicodePlots
